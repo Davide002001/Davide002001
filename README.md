@@ -3,7 +3,7 @@
 **iOS / watchOS developer · Swift & SwiftUI · Naples, Italy**
 
 I build native Apple apps with a focus on **accessibility, health and user experience**, and I enjoy working across the stack — from low-level networking in C to web front-ends.
-I studied Computer Science at the **University of Naples "Parthenope"**.
+I'm studying Computer Science at the **University of Naples "Parthenope"**.
 
 ---
 
