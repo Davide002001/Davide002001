@@ -30,6 +30,11 @@ iOS app that listens to the environment, recognises sounds with Apple's on-devic
 
 `Swift` `SwiftUI` `SoundAnalysis` `AVFoundation` `Core Haptics` `iOS`
 
+### 🌙 [Sleepy](https://github.com/Davide002001/Sleepy) — sleep data sync for iOS
+iOS app that reads sleep data from HealthKit and synchronises it with a remote REST API, with clear success and error feedback in the UI.
+
+`Swift` `SwiftUI` `HealthKit` `REST API` `iOS`
+
 ### 🍽️ [iOrder](https://github.com/Davide002001/Tech_Web_Project) — restaurant ordering & booking web app *(team project)*
 Digital menu, cart, table booking and a reserved area where the owner manages orders, menu items and tables.
 
