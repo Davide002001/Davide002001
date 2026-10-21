@@ -36,7 +36,7 @@ Since January 2025 I've been working as a **freelance iOS developer at [Swiingo]
 | **Backend & data** | REST APIs, Firebase (Firestore, Firebase Auth, Storage, Realtime Database), SQL, MySQL |
 | **Languages** | Swift, C, C++, Java, JavaScript, Python, SQL |
 | **Web** | HTML5, CSS3, Bootstrap, Angular, JavaScript |
-| **Workflow & tools** | Jira, Git, GitHub (CLI, pipelines), Xcode, JetBrains IDEs (IntelliJ IDEA, PyCharm, DataGrip, Android Studio), Visual Studio, Eclipse, Linux, Microsoft Office |
+| **Workflow & tools** | Jira, Git, GitHub (CLI, pipelines), Xcode, JetBrains IDEs (IntelliJ IDEA, PyCharm), Visual Studio, Eclipse, Linux, Microsoft Office |
 | **Engineering practices** | Full software development lifecycle, object-oriented programming, design patterns, software design schemas, Agile and Waterfall methodologies, testing |
 | **Design** | User Experience (UX), digital accessibility, human-computer interaction, interface usability, graphic editing tools |
 | **Soft skills** | Problem finding, problem shaping and problem solving, teamwork, continuous learning |
